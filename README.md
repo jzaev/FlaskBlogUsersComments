@@ -1,4 +1,4 @@
-# Flask blog users comments
+# Flask blog with users and comments
 Flask blog with users authorisation and comments
 This task was completed while learning programming in Python. Task from Udemy website.
 Course:
